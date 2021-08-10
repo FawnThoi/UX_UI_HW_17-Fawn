@@ -1,0 +1,40 @@
+.nav li {
+display:inline-block;
+vertical-align: top;
+}
+
+.logo {
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+}
+
+nav {
+    
+    width: 73%;
+    padding: 1%;
+    background-color: aqua;
+}
+
+ul {
+    width: 50%;
+    margin-left: auto;
+}
+
+.heroimg    {
+    height: 600px;
+    width: 500px;
+    margin: 0 auto;
+    padding: 25px;
+    
+}
+
+footer  {
+    width: 73%;
+    padding: 1%;
+    background-color: #373738;
+    color:azure;
+    
+
+}
+
